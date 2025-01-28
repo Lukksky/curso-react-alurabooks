@@ -37,3 +37,7 @@ Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no se
 ## 📚 Mais informações do curso
 
 O AluraBooks é o projeto utilizado durante toda a formação, e você pode navegar entre as branchs para encontrar o momento específico que está buscando.
+
+## feat: config HTTP/2
+
+![image](https://github.com/user-attachments/assets/ade83a1f-7831-42f9-94c9-cabcad6482d2)
